@@ -25,5 +25,5 @@
     "production": [">0.2%", "not dead", "not op_mini all"],
     "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   },
-  "homepage": "https://<seu-usuario>.github.io/<nome-do-repositorio>"
+  "homepage": "https://amurepinho2.github.io/diagnostico"
 }
