@@ -1,7 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Form } from "@quillforms/renderer-core";
+import "@quillforms/renderer-core/build-style/style.css";
+import { registerCoreBlocks } from "@quillforms/react-renderer-utils";
+import "./styles.css";
 
+registerCoreBlocks();
 function App() {
   return (
     <div className="App">
